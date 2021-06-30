@@ -1,2 +1,2 @@
 # Edureka
-this is mu first repository.
+this is my first repository.
